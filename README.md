@@ -1,2 +1,8 @@
 # Weather-Dashboard
-Home work #6
+
+Weather Dashboard App  Checks the weather in a 5 days forecast.
+
+
+
+# 
+githab
